@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "your.package.name",
-      "sha256_cert_fingerprints": ["YOUR_FINGERPRINT"]
+      "package_name": "com.base6a15c1945d75206a5099a359.app",
+      "sha256_cert_fingerprints": ["B8:AA:FE:76:87:DB:58:9A:60:43:77:97:6D:08:18:72:DE:F8:C2:CF:97:A9:DD:5A:A3:24:EA:B4:84:C9:44:50"]
     }
   }
 ]
